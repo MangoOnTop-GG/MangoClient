@@ -1,2 +1,3 @@
 # MangoClient
-Mango Client
+IM FINISHING SCORCE SOON
+          - NOTMONK
