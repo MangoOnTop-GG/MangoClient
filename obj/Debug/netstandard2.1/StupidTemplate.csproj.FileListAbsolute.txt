@@ -1,0 +1,763 @@
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\obj\Debug\netstandard2.1\StupidTemplate.csproj.AssemblyReference.cache
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\obj\Debug\netstandard2.1\StupidTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\obj\Debug\netstandard2.1\StupidTemplate.AssemblyInfoInputs.cache
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\obj\Debug\netstandard2.1\StupidTemplate.AssemblyInfo.cs
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\obj\Debug\netstandard2.1\StupidTemplate.csproj.CoreCompileInputs.cache
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\StupidTemplate.deps.json
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\StupidTemplate.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\StupidTemplate.pdb
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\0Harmony.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\BakeryRuntimeAssembly.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\BepInEx.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\BepInEx.Harmony.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Mono.Security.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Oculus.Platform.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Oculus.VR.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Photon3Unity3D.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\PhotonRealtime.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\PhotonUnityNetworking.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\PhotonUnityNetworking.Utilities.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\PhotonVoice.API.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\PhotonVoice.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\PhotonVoice.PUN.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\PlayFab.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\System.EnterpriseServices.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\System.ServiceModel.Internals.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.Animation.Rigging.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.Burst.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.Timeline.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.XR.Interaction.Toolkit.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.AccessibilityModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.AIModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.AndroidJNIModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.AnimationModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.ARModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.AssetBundleModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.AudioModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.ClothModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.ClusterInputModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.ClusterRendererModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.CoreModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.CrashReportingModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.DirectorModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.DSPGraphModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.GameCenterModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.GridModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.HotReloadModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.ImageConversionModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.IMGUIModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.InputLegacyModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.InputModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.JSONSerializeModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.LocalizationModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.ParticleSystemModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.PerformanceReportingModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.Physics2DModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.PhysicsModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.ScreenCaptureModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.SharedInternalsModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.SpatialTracking.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.SpriteMaskModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.SpriteShapeModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.StreamingModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.SubstanceModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.SubsystemsModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.TerrainModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.TextRenderingModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.TilemapModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.TLSModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UI.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UIElementsModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UIModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UmbraModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UnityConnectModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.VehiclesModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.VFXModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.VideoModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.VRModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.WindModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.XR.LegacyInputHelpers.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.XRModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\websocket-sharp.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Mono.Cecil.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\MonoMod.Utils.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\MonoMod.RuntimeDetour.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Fusion.Common.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Sirenix.OdinInspector.Attributes.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.TextMeshPro.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Fusion.Runtime.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\ZString.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\AA.Mothership.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\AstarPathfindingProject.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.ResourceManager.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.RenderPipelines.Core.Runtime.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.Addressables.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\ALINE.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.Splines.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Fusion.Sockets.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\LIV.LCK.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\LIV.LCK_GorillaTag.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\LIV.LCKCore.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Fusion.Unity.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Fusion.Realtime.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\com.rlabrecque.steamworks.net.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.Cinemachine.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.XR.OpenVR.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\KID.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\nexus.nexussdk.Runtime.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.Localization.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.Collections.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.XR.CoreUtils.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\GT_CustomMapSupportRuntime.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Modio.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.AI.Navigation.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Backtrace.Unity.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\SteamVR_Actions.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\SteamVR.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\VoiceSDK.Runtime.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.RenderPipelines.Universal.Runtime.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.ProBuilder.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\endel.nativewebsocket.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Modio.Unity.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.XR.OpenXR.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.XR.Management.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.InputForUIModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UnityCurlModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.HierarchyCoreModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.ContentLoadModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.PropertiesModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UnityAnalyticsCommonModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.MarshallingModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.AMDModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.IdentifiersModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.MultiplayerModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.NVIDIAModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.VirtualTexturingModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.TextCoreFontEngineModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.TextCoreTextEngineModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UnityConsentModule.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Fusion.Log.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Pathfinding.Ionic.Zip.Reduced.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Pathfinding.ClipperLib.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Pathfinding.Poly2Tri.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\NanoSockets.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\LIV.NativeAudioBridge.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\NativeGallery.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\LIV.LCKCore.ThirdParty.MessagePack.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.RenderPipelines.Universal.2D.Runtime.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.Collections.LowLevel.ILSupport.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Valve.Newtonsoft.Json.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Meta.WitAi.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Meta.WitAi.TTS.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\AssistantCoreSDKRuntime.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Meta.WitAi.Lib.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.VisualEffectGraph.Runtime.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.RenderPipelines.GPUDriven.Runtime.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.RenderPipeline.Universal.ShaderLibrary.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.RenderPipelines.Core.Runtime.Shared.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.ProBuilder.Poly2Tri.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.ProBuilder.KdTree.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Meta.VoiceSDK.Mic.Common.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Meta.Net.endel.nativewebsocket.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Meta.Voice.NLayer.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Meta.Voice.Opus.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Meta.VoiceSDK.Mic.Other.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\VoiceSDK.Telemetry.Runtime.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\0Harmony.xml
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\BepInEx.xml
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\BepInEx.Harmony.xml
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\MonoMod.Utils.xml
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\MonoMod.RuntimeDetour.xml
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\obj\Debug\netstandard2.1\StupidTe.F5B94829.Up2Date
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\obj\Debug\netstandard2.1\StupidTemplate.dll
+C:\Users\lukeo\Music\tempidk\iis.Stupid.Template-1.7\obj\Debug\netstandard2.1\StupidTemplate.pdb
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\obj\Debug\netstandard2.1\StupidTemplate.csproj.AssemblyReference.cache
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\obj\Debug\netstandard2.1\StupidTemplate.GeneratedMSBuildEditorConfig.editorconfig
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\obj\Debug\netstandard2.1\StupidTemplate.AssemblyInfoInputs.cache
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\obj\Debug\netstandard2.1\StupidTemplate.AssemblyInfo.cs
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\obj\Debug\netstandard2.1\StupidTemplate.csproj.CoreCompileInputs.cache
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\obj\Debug\netstandard2.1\StupidTemplate.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\obj\Debug\netstandard2.1\StupidTemplate.pdb
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\StupidTemplate.deps.json
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\StupidTemplate.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\StupidTemplate.pdb
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\0Harmony.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\BakeryRuntimeAssembly.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\BepInEx.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\BepInEx.Harmony.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Mono.Security.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Oculus.Platform.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Oculus.VR.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Photon3Unity3D.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\PhotonRealtime.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\PhotonUnityNetworking.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\PhotonUnityNetworking.Utilities.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\PhotonVoice.API.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\PhotonVoice.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\PhotonVoice.PUN.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\PlayFab.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\System.EnterpriseServices.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\System.ServiceModel.Internals.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.Animation.Rigging.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.Burst.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.Timeline.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.XR.Interaction.Toolkit.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.AccessibilityModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.AIModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.AndroidJNIModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.AnimationModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.ARModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.AssetBundleModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.AudioModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.ClothModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.ClusterInputModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.ClusterRendererModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.CoreModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.CrashReportingModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.DirectorModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.DSPGraphModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.GameCenterModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.GridModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.HotReloadModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.ImageConversionModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.IMGUIModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.InputLegacyModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.InputModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.JSONSerializeModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.LocalizationModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.ParticleSystemModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.PerformanceReportingModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.Physics2DModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.PhysicsModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.ScreenCaptureModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.SharedInternalsModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.SpatialTracking.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.SpriteMaskModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.SpriteShapeModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.StreamingModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.SubstanceModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.SubsystemsModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.TerrainModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.TerrainPhysicsModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.TextRenderingModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.TilemapModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.TLSModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UI.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UIElementsModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UIModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UmbraModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UnityAnalyticsModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UnityConnectModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UnityTestProtocolModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestAssetBundleModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestAudioModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestTextureModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestWWWModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.VehiclesModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.VFXModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.VideoModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.VRModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.WindModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.XR.LegacyInputHelpers.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.XRModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\websocket-sharp.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Mono.Cecil.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\MonoMod.Utils.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\MonoMod.RuntimeDetour.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.TextMeshPro.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Fusion.Common.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Sirenix.OdinInspector.Attributes.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Fusion.Runtime.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\ZString.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\XNode.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\AA.Mothership.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\AstarPathfindingProject.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.ResourceManager.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.RenderPipelines.Core.Runtime.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.Addressables.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\ALINE.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.Splines.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Fusion.Sockets.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\LIV.LCKCore.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\LIV.LCK.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\LIV.LCK_GorillaTag.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Fusion.Unity.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Fusion.Realtime.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\com.rlabrecque.steamworks.net.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.Cinemachine.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.XR.OpenVR.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\KID.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\nexus.nexussdk.Runtime.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.Localization.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.Collections.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.XR.CoreUtils.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\GT_CustomMapSupportRuntime.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.AI.Navigation.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Modio.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Backtrace.Unity.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\SteamVR_Actions.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\SteamVR.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\VoiceSDK.Runtime.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.RenderPipelines.Universal.Runtime.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.ProBuilder.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\endel.nativewebsocket.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Modio.Unity.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.XR.OpenXR.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.XR.Management.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.InputForUIModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UnityCurlModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.HierarchyCoreModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.ContentLoadModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.PropertiesModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UnityAnalyticsCommonModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.MarshallingModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.AMDModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.IdentifiersModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.MultiplayerModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.NVIDIAModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.VirtualTexturingModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.TextCoreFontEngineModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.TextCoreTextEngineModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UnityConsentModule.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Fusion.Log.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Pathfinding.Ionic.Zip.Reduced.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Pathfinding.ClipperLib.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Pathfinding.Poly2Tri.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\NanoSockets.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\LIV.LCKCore.ThirdParty.MessagePack.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\LIV.NativeAudioBridge.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\NativeGallery.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.RenderPipelines.Universal.2D.Runtime.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.Collections.LowLevel.ILSupport.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Valve.Newtonsoft.Json.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Meta.WitAi.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Meta.WitAi.TTS.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\AssistantCoreSDKRuntime.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Meta.WitAi.Lib.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.VisualEffectGraph.Runtime.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.RenderPipelines.GPUDriven.Runtime.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.RenderPipeline.Universal.ShaderLibrary.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.RenderPipelines.Core.Runtime.Shared.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.ProBuilder.Poly2Tri.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.ProBuilder.KdTree.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Meta.VoiceSDK.Mic.Common.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Meta.Net.endel.nativewebsocket.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Meta.Voice.NLayer.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Meta.Voice.Opus.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Meta.VoiceSDK.Mic.Other.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\VoiceSDK.Telemetry.Runtime.dll
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\0Harmony.xml
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\BepInEx.xml
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\BepInEx.Harmony.xml
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\MonoMod.Utils.xml
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\MonoMod.RuntimeDetour.xml
+E:\Gorilla Tag Menus\Templates\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\obj\Debug\netstandard2.1\StupidTe.F5B94829.Up2Date
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\obj\Debug\netstandard2.1\StupidTemplate.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\obj\Debug\netstandard2.1\StupidTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\obj\Debug\netstandard2.1\StupidTemplate.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\obj\Debug\netstandard2.1\StupidTemplate.AssemblyInfo.cs
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\obj\Debug\netstandard2.1\StupidTemplate.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\obj\Debug\netstandard2.1\StupidTemplate.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\obj\Debug\netstandard2.1\StupidTemplate.pdb
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\StupidTemplate.deps.json
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\StupidTemplate.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\StupidTemplate.pdb
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\0Harmony.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\BakeryRuntimeAssembly.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\BepInEx.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\BepInEx.Harmony.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Mono.Security.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Oculus.Platform.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Oculus.VR.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Photon3Unity3D.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\PhotonRealtime.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\PhotonUnityNetworking.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\PhotonUnityNetworking.Utilities.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\PhotonVoice.API.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\PhotonVoice.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\PhotonVoice.PUN.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\PlayFab.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\System.EnterpriseServices.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\System.ServiceModel.Internals.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.Animation.Rigging.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.Burst.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.Timeline.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.XR.Interaction.Toolkit.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.AccessibilityModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.AIModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.AndroidJNIModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.AnimationModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.ARModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.AssetBundleModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.AudioModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.ClothModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.ClusterInputModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.ClusterRendererModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.CoreModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.CrashReportingModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.DirectorModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.DSPGraphModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.GameCenterModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.GridModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.HotReloadModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.ImageConversionModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.IMGUIModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.InputLegacyModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.InputModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.JSONSerializeModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.LocalizationModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.ParticleSystemModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.PerformanceReportingModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.Physics2DModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.PhysicsModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.ScreenCaptureModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.SharedInternalsModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.SpatialTracking.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.SpriteMaskModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.SpriteShapeModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.StreamingModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.SubstanceModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.SubsystemsModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.TerrainModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.TextRenderingModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.TilemapModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.TLSModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UI.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UIElementsModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UIModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UmbraModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UnityConnectModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.VehiclesModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.VFXModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.VideoModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.VRModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.WindModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.XR.LegacyInputHelpers.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.XRModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\websocket-sharp.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Mono.Cecil.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\MonoMod.Utils.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\MonoMod.RuntimeDetour.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.TextMeshPro.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Fusion.Common.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Sirenix.OdinInspector.Attributes.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Fusion.Runtime.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\ZString.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\XNode.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\AA.Mothership.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.Collections.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\AstarPathfindingProject.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\KID.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UniTask.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.ResourceManager.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.RenderPipelines.Core.Runtime.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.Addressables.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\ALINE.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.Splines.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Fusion.Sockets.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\LIV.LCKCore.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\LIV.LCK.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\LIV.LCK_GorillaTag.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Fusion.Unity.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Fusion.Realtime.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\com.rlabrecque.steamworks.net.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.Cinemachine.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.XR.OpenVR.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\nexus.nexussdk.Runtime.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.Localization.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.XR.CoreUtils.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\GT_CustomMapSupportRuntime.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.AI.Navigation.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Modio.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Backtrace.Unity.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\SteamVR_Actions.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\SteamVR.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\VoiceSDK.Runtime.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.RenderPipelines.Universal.Runtime.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.ProBuilder.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\K4os.Compression.LZ4.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\endel.nativewebsocket.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Modio.Unity.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.XR.OpenXR.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.XR.Management.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.InputForUIModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UnityCurlModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.HierarchyCoreModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.ContentLoadModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.PropertiesModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UnityAnalyticsCommonModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.MarshallingModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.AMDModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.IdentifiersModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.MultiplayerModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.NVIDIAModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.VirtualTexturingModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.TextCoreFontEngineModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.TextCoreTextEngineModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UnityConsentModule.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Fusion.Log.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.Collections.LowLevel.ILSupport.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Pathfinding.Ionic.Zip.Reduced.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Pathfinding.ClipperLib.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Pathfinding.Poly2Tri.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\NanoSockets.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\LIV.LCKCore.ThirdParty.MessagePack.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\LIV.NativeAudioBridge.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\NativeGallery.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.RenderPipelines.Universal.2D.Runtime.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Valve.Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Meta.WitAi.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Meta.WitAi.TTS.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\AssistantCoreSDKRuntime.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Meta.WitAi.Lib.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.VisualEffectGraph.Runtime.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.RenderPipelines.GPUDriven.Runtime.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.RenderPipeline.Universal.ShaderLibrary.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.RenderPipelines.Core.Runtime.Shared.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.ProBuilder.Poly2Tri.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.ProBuilder.KdTree.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Meta.VoiceSDK.Mic.Common.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Meta.Net.endel.nativewebsocket.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Meta.Voice.NLayer.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Meta.Voice.Opus.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Meta.VoiceSDK.Mic.Other.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\VoiceSDK.Telemetry.Runtime.dll
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\0Harmony.xml
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\BepInEx.xml
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\BepInEx.Harmony.xml
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\MonoMod.Utils.xml
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\MonoMod.RuntimeDetour.xml
+C:\Users\Admin\Downloads\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\obj\Debug\netstandard2.1\StupidTe.F5B94829.Up2Date
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\StupidTemplate.deps.json
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\StupidTemplate.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\StupidTemplate.pdb
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\0Harmony.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\BakeryRuntimeAssembly.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\BepInEx.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\BepInEx.Harmony.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Mono.Security.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Oculus.Platform.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Oculus.VR.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Photon3Unity3D.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\PhotonRealtime.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\PhotonUnityNetworking.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\PhotonUnityNetworking.Utilities.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\PhotonVoice.API.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\PhotonVoice.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\PhotonVoice.PUN.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\PlayFab.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\System.EnterpriseServices.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\System.ServiceModel.Internals.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.Animation.Rigging.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.Burst.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.Timeline.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.XR.Interaction.Toolkit.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.AccessibilityModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.AIModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.AndroidJNIModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.AnimationModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.ARModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.AssetBundleModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.AudioModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.ClothModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.ClusterInputModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.ClusterRendererModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.CoreModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.CrashReportingModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.DirectorModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.DSPGraphModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.GameCenterModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.GridModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.HotReloadModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.ImageConversionModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.IMGUIModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.InputLegacyModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.InputModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.JSONSerializeModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.LocalizationModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.ParticleSystemModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.PerformanceReportingModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.Physics2DModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.PhysicsModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.ScreenCaptureModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.SharedInternalsModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.SpatialTracking.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.SpriteMaskModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.SpriteShapeModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.StreamingModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.SubstanceModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.SubsystemsModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.TerrainModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.TextRenderingModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.TilemapModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.TLSModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UI.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UIElementsModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UIModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UmbraModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UnityConnectModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.VehiclesModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.VFXModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.VideoModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.VRModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.WindModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.XR.LegacyInputHelpers.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.XRModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\websocket-sharp.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Mono.Cecil.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\MonoMod.Utils.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\MonoMod.RuntimeDetour.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.TextMeshPro.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Fusion.Common.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Sirenix.OdinInspector.Attributes.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Fusion.Runtime.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\ZString.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\XNode.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\AA.Mothership.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.Collections.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\AstarPathfindingProject.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\KID.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UniTask.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.ResourceManager.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.RenderPipelines.Core.Runtime.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.Addressables.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\ALINE.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.Splines.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Fusion.Sockets.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\LIV.LCKCore.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\LIV.LCK.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\LIV.LCK_GorillaTag.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Fusion.Unity.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Fusion.Realtime.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\com.rlabrecque.steamworks.net.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.Cinemachine.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.XR.OpenVR.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\nexus.nexussdk.Runtime.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.Localization.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.XR.CoreUtils.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\GT_CustomMapSupportRuntime.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.AI.Navigation.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Modio.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Backtrace.Unity.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\SteamVR_Actions.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\SteamVR.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\VoiceSDK.Runtime.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.RenderPipelines.Universal.Runtime.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.ProBuilder.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\K4os.Compression.LZ4.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\endel.nativewebsocket.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Modio.Unity.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.XR.OpenXR.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.XR.Management.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.InputForUIModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UnityCurlModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.HierarchyCoreModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.ContentLoadModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.PropertiesModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UnityAnalyticsCommonModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.MarshallingModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.AMDModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.IdentifiersModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.MultiplayerModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.NVIDIAModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.VirtualTexturingModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.TextCoreFontEngineModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.TextCoreTextEngineModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\UnityEngine.UnityConsentModule.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Fusion.Log.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.Collections.LowLevel.ILSupport.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Pathfinding.Ionic.Zip.Reduced.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Pathfinding.ClipperLib.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Pathfinding.Poly2Tri.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\NanoSockets.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\LIV.LCKCore.ThirdParty.MessagePack.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\LIV.NativeAudioBridge.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\NativeGallery.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.RenderPipelines.Universal.2D.Runtime.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Valve.Newtonsoft.Json.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Meta.WitAi.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Meta.WitAi.TTS.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\AssistantCoreSDKRuntime.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Meta.WitAi.Lib.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.VisualEffectGraph.Runtime.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.RenderPipelines.GPUDriven.Runtime.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.RenderPipeline.Universal.ShaderLibrary.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.RenderPipelines.Core.Runtime.Shared.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.ProBuilder.Poly2Tri.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Unity.ProBuilder.KdTree.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Meta.VoiceSDK.Mic.Common.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Meta.Net.endel.nativewebsocket.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Meta.Voice.NLayer.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Meta.Voice.Opus.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\Meta.VoiceSDK.Mic.Other.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\VoiceSDK.Telemetry.Runtime.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\0Harmony.xml
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\BepInEx.xml
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\BepInEx.Harmony.xml
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\MonoMod.Utils.xml
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\bin\Debug\netstandard2.1\MonoMod.RuntimeDetour.xml
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\obj\Debug\netstandard2.1\StupidTemplate.csproj.AssemblyReference.cache
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\obj\Debug\netstandard2.1\StupidTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\obj\Debug\netstandard2.1\StupidTemplate.AssemblyInfoInputs.cache
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\obj\Debug\netstandard2.1\StupidTemplate.AssemblyInfo.cs
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\obj\Debug\netstandard2.1\StupidTemplate.csproj.CoreCompileInputs.cache
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\obj\Debug\netstandard2.1\StupidTe.F5B94829.Up2Date
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\obj\Debug\netstandard2.1\StupidTemplate.dll
+C:\Users\boobo\Downloads\BetterStupidTemplate (@velocitylx)\BetterStupidTemplate (@velocitylx)\StupidTemplate-FinishedByVelx\iis.Stupid.Template-1.7\obj\Debug\netstandard2.1\StupidTemplate.pdb
